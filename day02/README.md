@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# React Js with Jmrashed | Day 01 ( Home Increment and Decrement Buttons)
-=======
 # React Js with Jmrashed | Day 02
->>>>>>> b3741a57309d6dbd8ed5dc8e5506c9c4d068c62b
 
 First, run the development server:
 
@@ -20,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 # Results
-<img src="./day02/public/assets/images/Screenshot.png"> 
+<img src="./public/assets/images/Screenshot.png"> 
