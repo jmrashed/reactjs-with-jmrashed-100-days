@@ -1,4 +1,4 @@
-# React Js with Jmrashed | Day 01 (CodePen Home Increment and Decrement Buttons)
+# React Js with Jmrashed | Day 01 ( Home Increment and Decrement Buttons)
 
 Welcome to the "React Js with Jmrashed" series! This README.md file serves as a guide for Day 01 of our React.js journey. In this series, we will explore the world of React.js, a popular JavaScript library for building user interfaces.
 
